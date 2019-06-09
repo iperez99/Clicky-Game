@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Clicky-Game/static/css/main.06ea644b.chunk.css",
+    "main.js": "/Clicky-Game/static/js/main.2c196d87.chunk.js",
+    "main.js.map": "/Clicky-Game/static/js/main.2c196d87.chunk.js.map",
+    "runtime~main.js": "/Clicky-Game/static/js/runtime~main.012bace8.js",
+    "runtime~main.js.map": "/Clicky-Game/static/js/runtime~main.012bace8.js.map",
+    "static/js/2.76d8ed81.chunk.js": "/Clicky-Game/static/js/2.76d8ed81.chunk.js",
+    "static/js/2.76d8ed81.chunk.js.map": "/Clicky-Game/static/js/2.76d8ed81.chunk.js.map",
+    "index.html": "/Clicky-Game/index.html",
+    "precache-manifest.32f8ffa7f380e6472c8fe2418bc1a855.js": "/Clicky-Game/precache-manifest.32f8ffa7f380e6472c8fe2418bc1a855.js",
+    "service-worker.js": "/Clicky-Game/service-worker.js",
+    "static/css/main.06ea644b.chunk.css.map": "/Clicky-Game/static/css/main.06ea644b.chunk.css.map",
+    "static/media/emoji1.png": "/Clicky-Game/static/media/emoji1.87b1c502.png",
+    "static/media/emoji10.png": "/Clicky-Game/static/media/emoji10.44400993.png",
+    "static/media/emoji11.png": "/Clicky-Game/static/media/emoji11.e3bcf9db.png",
+    "static/media/emoji12.png": "/Clicky-Game/static/media/emoji12.1d8795f7.png",
+    "static/media/emoji2.png": "/Clicky-Game/static/media/emoji2.0d3a286f.png",
+    "static/media/emoji3.png": "/Clicky-Game/static/media/emoji3.d2992595.png",
+    "static/media/emoji4.png": "/Clicky-Game/static/media/emoji4.f93f2982.png",
+    "static/media/emoji5.png": "/Clicky-Game/static/media/emoji5.9d7856bb.png",
+    "static/media/emoji6.png": "/Clicky-Game/static/media/emoji6.9edc5f08.png",
+    "static/media/emoji7.png": "/Clicky-Game/static/media/emoji7.fc35cad0.png",
+    "static/media/emoji8.png": "/Clicky-Game/static/media/emoji8.8c23737c.png",
+    "static/media/emoji9.png": "/Clicky-Game/static/media/emoji9.059e8a26.png"
+  }
+}
